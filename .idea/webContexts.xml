@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/02_insert_image.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/ch04/08_form_membership02.jsp" value="file://$PROJECT_DIR$/src/main/webapp/ch04" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/ch05/04_isNaNcheck.jsp" value="file://$PROJECT_DIR$/src/main/webapp/ch05" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/ch06/05_sessionKeeping.jsp" value="file://$PROJECT_DIR$/src/main/webapp/ch06" />
+      </map>
+    </option>
+  </component>
+</project>
