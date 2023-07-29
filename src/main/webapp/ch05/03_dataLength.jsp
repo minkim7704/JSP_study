@@ -42,6 +42,8 @@ Home > 아이디와 비밀번호 입력
     <input type = "text" name = "id"><br><br>
     PASSWORD : <br>
     <input type = "password" name = "passwd"><br><br>
+
+
     <input type = "submit" value = " Login ">
 </form>
 </body>
