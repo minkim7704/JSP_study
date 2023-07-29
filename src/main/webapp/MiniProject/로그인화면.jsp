@@ -29,7 +29,7 @@
 <body>
 Home > Login
 <hr>
-<form name="loginForm" action="로그인화면action.jsp" method="post"
+<form name="loginForm" action="로그인세션생성.jsp" method="post"
     onsubmit="return dataInput()">
     ID : <br>
     <input type = "text" name = "id"> <br><br>

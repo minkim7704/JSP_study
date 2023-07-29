@@ -11,7 +11,7 @@
 <body>
 Home > 로그인 화면
 <hr>
-<form name = "loginForm" action = "01_sessionCreate_success.jsp" method = "post">
+<form name = "loginForm" action = "02_sessionInfo_single.jsp" method = "post">
     ID : <br>
     <input type = "text" name = "id"><br><br>
     Password : <br>

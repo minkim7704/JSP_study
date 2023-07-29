@@ -18,9 +18,9 @@
             var f = document.loginForm;
 
             var name = f.sname.value;
-            var reqExpName = /^[a-z | A-Z | ㄱ-ㅎ | ㅏ-ㅣ | 가-힣]/;
+            var regExpName = /^[a-z | A-Z | ㄱ-ㅎ | ㅏ-ㅣ | 가-힣]/;
 
-            var fw = f.passwd.value;
+            var pw = f.passwd.value;
             var regExpPasswd = /^[0-9]*$/;
 
             if (!regExpName.test(name))
